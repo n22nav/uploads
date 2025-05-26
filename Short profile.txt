@@ -1,0 +1,8 @@
+Versatile Data Engineer and Data Science practitioner with 3+ year of experience in designing scalable data pipelines, building ML models, deploying cloud-based analytics solutions and Erp system. Skilled in Python, SQL, Apache Spark, and Azure Data Factory with hands-on experience in data preprocessing, feature engineering, model deployment and Business analysis. Successfully collaborated with cross-functional teams to deliver data-driven insights, real-time dashboards, and predictive models. Passionate about leveraging big data and machine learning to solve real-world business challenges and optimize decision-making.
+
+Projects:
+1.  Dashboards creation for monitoring and reporting of different dataloaders, reducing manual intervention.
+2.  Logistics Insights: Built dashboards to analyze delivery gaps.
+3.  ML Salary Predictor: Trained a salary prediction model using real world data; accuracy reached 70%+.
+4.  Text Summarizer: Developed NLP pipeline for summarizing documents;
+5.  ML Web App: Deployed a multi-algorithm web app with hyperparameter tuning for hypothesis validation
