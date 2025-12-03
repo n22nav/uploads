@@ -1,0 +1,36 @@
+1.
+
+Aligned my work with the Country Integration strategy and the broader Ayvens PowerUp 2026 goals, ensuring focus on people, data, core services, and stakeholder satisfaction.
+
+Built reliable and trusted relationships with stakeholders by maintaining clear communication and consistent delivery.
+
+Independently designed components, developed clean and reusable code, and prepared relevant test scenarios following software craftsmanship practices.
+
+Completed the assigned learning paths and actively participated in team ceremonies, agile routines, and chapter meetings.
+
+Delivered across all stages of the SDLC while following Agile principles and craftsmanship guidelines.
+
+Collaborated with other development teams to define and implement APIs and data-access rules.
+
+Ensured timely and transparent communication with customers, partners, and stakeholders.
+
+Reviewed production issues, identified improvement areas, and performed daily checks to maintain standards.
+
+Suggested opportunities for automation in recurring production activities and supported L2/L3 production needs.
+
+Conducted thorough release validations and prepared metrics, test reports, and defect summaries.
+
+Contributed to the development of craft guidelines and helped the team adopt them.
+
+Worked on increasing coverage of data models, data dictionaries, and metadata standards, ensuring proper documentation and reusability.
+
+
+
+
+
+
+
+
+2.
+
+
